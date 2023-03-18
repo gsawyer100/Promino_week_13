@@ -1,0 +1,11 @@
+{
+  "name": "npm-init-my-react-app",
+  "version": "1.0.0",
+  "description": "my-react-app package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Sawyer",
+  "license": "ISC"
+}
